@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+}
+header{
+    /* margin-top: 0px; */
+    display: flex;
+    background-image: url("/images/banner/banner1.png");
+    background-size: cover;
+    height: 700px;
+    width: 100%;  
+}
+h1{
+    margin-top: 20px;
+}
+.im{
+    height: 300px;
+    width: 200px;
+    margin-top: 5px;
+}
+.btn{
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+    margin: auto;
+    height: 44px;
+    width: 150px;
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+    cursor: pointer;
+
+}
+.btn1{
+    height: 30px;
+    width: auto;
+    padding: 5px;
+    background-color: orangered;
+    font-size: 18px;
+    border-radius: 5px;
+    
+    border: none;
+}
+.btn2{
+    background-color:orangered;
+    border: none;
+    margin-top: 10px;
+    font-size: 20px;
+    height: 30px;
+    width: auto;
+    border-radius: 5px;
+}
+
+main{
+    height: 800px;
+    width: 100%;
+}
+.text{
+     
+    margin-top:120px ;
+    margin-left:800px;
+    margin-right: 120px;
+    margin-bottom: 100px;
+    padding-right: 10px;
+    text-align: right;
+    
+
+    }
+    .text2{
+        font-size: 18px;
+        margin-top: 5px;
+        margin-left: 200px;
+    }
+    .discribe{
+        margin-top: 20px;
+        font-size: 18px;
+    }
+    .div1{
+        display: flex;
+        align-items: center;
+        margin-left: 150px;
+        margin-top: 10px;
+       
+        }
+    
+    .ul1{
+        margin-top: 10px;
+    }
+    .icon{
+        display: flex;
+        justify-content: space-around;
+        margin-left: 70px;
+        margin-right: 70px;
+        align-items: center;
+        margin-top: 5px;
+        
+
+    }
+    .plan{
+        text-align: center;
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .indor{
+        
+        background-size: cover;
+        height: 80px;
+        width: 700px;
+        margin-left: 250px;
+        margin-top: 40px;
+       margin-right: 200px;
+        margin-bottom: 250px;
+       padding: 70px;
+       backface-visibility: visible;
+ background-image: url("images/watch.png");
+    border-radius: 20px;
+    }
+    .positive{
+        margin-top: 7px;
+        color: black;
+
+    }
+    .image-icon{
+        height:50px;
+        width: 50px;
+        align-items: center;
+    }
+    footer{
+        
+        
+        background-color: black;
+        height: 250px;
+        width: 100%;
+        margin-top: 10px;
+    }
+    
+.last{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    }
+.last-icons{
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+    
+}
+.text-set{
+    margin-top: 30px;
+}
